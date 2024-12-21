@@ -21,9 +21,9 @@ Sample Response:<br/>
 ]
 ```
 
--Route: /api/ingredients/update/:id
-Method: PUT
-Request Body:
+-Route: /api/ingredients/update/:id<br/>
+Method: PUT<br/>
+Request Body:<br/>
 ```json
 [
     {
@@ -32,7 +32,7 @@ Request Body:
     }
 ]
 ```
-Sample Response:
+Sample Response:<br/>
 ```json
 [
     {
@@ -41,9 +41,9 @@ Sample Response:
 ]
 ```
 
--Route: /api/ingredients/
-Method: GET
-Sample Response:
+-Route: /api/ingredients/<br/>
+Method: GET<br/>
+Sample Response:<br/>
 ```json
 [
   {
@@ -59,9 +59,9 @@ Sample Response:
 ]
 ```
 
--Route: /api/recipes/add-text
-Method: POST
-Request Body:
+-Route: /api/recipes/add-text<br/>
+Method: POST<br/>
+Request Body:<br/>
 ```json
 [
     {
@@ -75,7 +75,7 @@ Request Body:
     }
 ]
 ```
-Sample Response:
+Sample Response:<br/>
 ```json
 [
     {
@@ -84,10 +84,10 @@ Sample Response:
 ]
 ```
 
--Route: /api/recipes/upload
-Method: POST
-Request: Multipart form data with an image file.
-Sample Response:
+-Route: /api/recipes/upload<br/>
+Method: POST<br/>
+Request: Multipart form data with an image file.<br/>
+Sample Response:<br/>
 ```json
 [
     {
@@ -98,9 +98,9 @@ Sample Response:
 ]
 ```
 
--Route: /api/recipes
-Method: GET
-Sample Response:
+-Route: /api/recipes<br/>
+Method: GET<br/>
+Sample Response:<br/>
 ```json
 [
   {
@@ -117,9 +117,9 @@ Sample Response:
 
 
 
--Route: /api/chatbot/chat
-Method: POST
-Request Body:
+-Route: /api/chatbot/chat<br/>
+Method: POST<br/>
+Request Body:<br/>
 ```json
 [
     {
@@ -127,7 +127,7 @@ Request Body:
     }
 ]
 ```
-Sample Response:
+Sample Response:<br/>
 ```json
 [
     {
