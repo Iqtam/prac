@@ -1,8 +1,8 @@
 # Bitfest Hackathon- Recipe Management API Documentation
 
--Route: /api/ingredients/add
-Method: POST
-Request Body:
+-Route: /api/ingredients/add<br/>
+Method: POST<br/>
+Request Body:<br/>
 ```json
 [
     {
@@ -12,7 +12,7 @@ Request Body:
     }
 ]
 ```
-Sample Response:
+Sample Response:<br/>
 ```json
 [
     {
