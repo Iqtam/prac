@@ -1,0 +1,8 @@
+{
+    "last_id": 10,
+    "recipes": [
+      {"id": 0, "name": "Chocolate Cake", "hash": "abc123"},
+      {"id": 1, "name": "Vanilla Pudding", "hash": "def456"}
+    ]
+  }
+  
